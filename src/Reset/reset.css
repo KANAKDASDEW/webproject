@@ -1,0 +1,38 @@
+.Registerbuttton{
+    background-color: #53D3D1;
+    border: 1px solid #fff;
+    height: 60px;
+    width: 132px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.Registebuttton1{
+    background-color: #2554D7;
+    border: 1px solid #fff;
+    height: 60px;
+    width: 110px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.registerpart h3{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.registerpart p{
+    font-size: 16px;
+    line-height: 32px;
+    font-family: Open Sans;
+}
+.buttonpart p{
+    margin-left: 125px;
+    top:-58px;
+    color: #2554D7;
+    position: relative;
+    
+}
+.reset h1{
+    font-size: 40px;
+    margin-left: 90px;
+    margin-bottom: 30px;
+    
+}

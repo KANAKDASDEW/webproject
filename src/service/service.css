@@ -1,0 +1,23 @@
+
+.service_part11{
+    text-align: center;
+}
+.service_part11 h1{
+    font-size: 56px;
+    line-height: 71.46px;
+    font-weight: 700;
+  
+}
+.service_part11 p{
+    margin-bottom: 50px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+}
+.button{
+    margin-top: 45px !important;
+}
+
+.btn{
+    margin-bottom: 40px;
+}

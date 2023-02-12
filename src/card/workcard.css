@@ -1,0 +1,19 @@
+.fbox-content h3 {
+    font-size: 16px;
+    position: relative;
+    color: #040F16;
+    margin-left: 49px;
+    margin-top: -50px;
+}
+.fbox-content p{
+    font-size: 16px;
+    position: relative;
+    color: #040F16;
+    margin-left: 49px;
+  
+
+}
+.service_part3 .fbox-media img{
+    width: 313px !important;
+    height: 300px !important ; 
+}

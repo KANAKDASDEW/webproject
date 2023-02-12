@@ -1,0 +1,49 @@
+
+.logo {
+  width: 99px;
+  height: 48px;
+ 
+}
+.logo p{
+  top: 10px;
+  size: 40px;
+  weight:700;
+   font-weight: 700px;
+  position: relative;
+}
+.main_menu ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+
+}
+.menu .nav-item {
+    top: 15px;
+    left: 15px;
+}
+.menu .nav-item .nav-link{
+  color: #000;
+}
+
+.resister_account {
+  font-size: 12px;
+
+  margin-left: 400px;
+  margin-top: 13px;
+  
+   
+}
+.resister_account Link{
+  padding: 20px !important;
+}
+
+ 
+  
+  
+
+
+  
+  
+
+
+

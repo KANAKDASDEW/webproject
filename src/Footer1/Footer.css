@@ -1,0 +1,138 @@
+#footer {
+    background: #040F16;
+    margin-bottom: 10px;
+  }
+  
+  .social-heading {
+    color: grey;
+    margin-bottom: 30px;
+    letter-spacing: 5px;
+  }
+  
+  .foooter-h4 {
+    font-size: 20px;
+    color: gray;
+    font-weight: 800;
+  
+    letter-spacing: 5px;
+  }
+  .footer-p {
+    font-size: 16px;
+    opacity: 0.7;
+    color: white;
+  }
+  
+  .text-center {
+    padding-bottom: 20px;
+  }
+  
+  #footer {
+    position: relative;
+  }
+  .sr-fluid {
+    width: 50% !important;
+  }
+  .sr-fluid a {
+    width: 98% !important ;
+  }
+  .para {
+    color: white;
+    font-size: 18px;
+  }
+  
+  .brandName {
+    color: cornflowerblue;
+  }
+  .center {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  .social-container p{
+    text-align: center;
+    font-family: italic;
+    font-size: 20px;
+    color: green;
+  }
+  .service_part3 img{
+    width: 247px !important;
+    height: 300px;
+   padding: 50px !important;
+ 
+  }
+
+.social-container h2{
+  text-align: center;
+  font-size: 56px;
+  margin-bottom: 20px;
+  font-family: Rajdhani;
+  color: aliceblue;
+  line-height: 71.46px;
+
+}
+
+.Facebook{
+ 
+width: 40px;  
+height: 40px; 
+border: 1px solid #fff;
+margin: 2px;
+}
+.Twitter{
+  width: 40px;  
+  height: 40px; 
+  background-color:#2554D7;
+  margin: 2px;
+}
+
+.Instagram{ 
+border: 1px solid #fff;
+width: 40px;  
+height: 40px; 
+margin: 2px;
+
+ 
+
+ 
+
+}
+.Linnkden{
+  
+  width: 40px;  
+  height: 40px; 
+  
+
+}
+
+.line{
+  width: 1300px;
+
+  background-color: #FFFFFF;
+  height: 2px ;
+ 
+  margin-left: 60px;
+
+}
+.footterpartstart{
+  margin-top: 50px;
+}
+.logopart h4{
+  color: #FFFFFF;
+}
+.logopart h1{
+  color: #FFFFFF;
+  font-size: 40px;
+  line-height: 51px;
+}
+.logopart p{
+  color:#FFFFFF ;
+}
+.logopart h6{
+  color:#FFFFFF ;
+}
+Button{
+  margin-top: 35px !important;
+}
+
+  
+  

@@ -1,0 +1,21 @@
+
+  .nav_barr{
+    width: 100%;
+    height: 48px;
+    background-color: #040F16;
+    text-align: center !important;
+   
+}
+.nav_barr p{
+  top: 16px ;
+  position: relative;
+  font:  Open Sans;
+  color:#FFFFFF ;
+  weight:600px;
+  line-height: 17.7px;
+  
+ 
+}
+ 
+  
+  

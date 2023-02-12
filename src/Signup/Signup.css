@@ -1,0 +1,15 @@
+.signup h1{
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.signbuttton{
+    background-color: #2554D7;
+    border: 1px solid #fff;
+    height: 60px;
+    width: 132px;
+    color: #fff;
+    margin-bottom: 20px;
+    
+    
+}
